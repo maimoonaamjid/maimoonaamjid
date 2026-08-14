@@ -33,22 +33,25 @@
 
 ## 🧠 About Me
 
-<div align="center">
+<table align="center">
+<tr>
+<td>
 
-```yaml
-Name:        Maimoona Amjid
-Role:        Software Engineering Student
-Focus:       Software Development • AI • UI/UX Design
-Currently:   Building projects in Java, exploring AI models
-Passion:     Merging clean design with clean code
-Fun fact:    I design it first, then I build it 🎨➡️💻
-```
+🎓 **Role:** Software Engineering Student
+💻 **Focus:** Software Development • AI • UI/UX Design
+☕ **Currently:** Building projects in Java, exploring AI models
+🎨 **Passion:** Merging clean design with clean code
+✨ **Fun fact:** I design it first, then I build it
+
+---
 
 🎓 Software Engineering student &nbsp;|&nbsp; 🤖 Exploring **Artificial Intelligence** &nbsp;|&nbsp; ☕ Building projects with **Java**
 🎨 Passionate about **UI/UX & Graphic Design** &nbsp;|&nbsp; 🌱 Always learning and experimenting
 💬 Ask me about design systems, Java OOP, or AI basics
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -56,7 +59,7 @@ Fun fact:    I design it first, then I build it 🎨➡️💻
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,py,cpp,c,mysql,git,github,html,css,js,figma,ps,ai,id,vscode,visualstudio&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,py,cpp,c,mysql,git,github,html,css,js,figma,ps,ai,vscode&perline=7" />
 
 </div>
 
