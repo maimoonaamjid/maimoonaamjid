@@ -53,3 +53,85 @@ I'm **Maimoona**, a Software Engineering student passionate about building softw
 <img src="https://skillicons.dev/icons?i=idea,vscode,figma,photoshop&perline=4" />
 
 </div>
+
+<br>
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🏠 Emotion Detection System
+
+AI-Based facil emotion detection system.
+
+**AI • UI/UX • Software Engineering**
+
+<br>
+
+<a href="https://github.com/maimoonaamjid/AI-Facial-Emotion-Detection.git">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-9B8CFF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🏨 Hotel Management System
+
+Desktop application for managing hotel operations.
+
+**Java • MySQL • OOP**
+
+<br>
+
+<a href="https://github.com/maimoonaamjid/Hotel-Management-System.git">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-9B8CFF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🤖 AI Projects
+
+Artificial Intelligence projects including logical reasoning and intelligent agents.
+
+**AI • Knowledge Representation • Logic**
+
+<br>
+
+<a href="https://github.com/maimoonaamjid/AI-Productivity-Dashboard-Design.git">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-9B8CFF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 📚 Calculator
+
+Algorithms and data structure implementations.
+
+**Java • Algorithms • Problem Solving**
+
+<br>
+
+<a href="https://github.com/maimoonaamjid/CalculatorPro.git">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-9B8CFF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
