@@ -76,20 +76,6 @@ Fun fact:    I design it first, then I build it 🎨➡️💻
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/maimoonaamjid/maimoonaamjid/output/github-contribution-grid-snake-dark.svg" />
-<!--END_SECTION:snake-->
-
-<sub>⚠️ This animated snake needs a one-time GitHub Action setup — see the "Snake Setup" section below.</sub>
-
-</div>
-
-<br/>
-
 ## 🚀 Featured Projects
 
 <div align="center">
