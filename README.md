@@ -57,42 +57,7 @@ Fun fact:    I design it first, then I build it 🎨➡️💻
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,py,cpp,c,mysql,git,github,html,css,js,figma,vscode,idea&perline=7" />
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maimoonaamjid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B8CFF&icon_color=9B8CFF&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maimoonaamjid&theme=tokyonight&hide_border=true&background=0D1117&ring=9B8CFF&fire=9B8CFF&currStreakLabel=9B8CFF" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maimoonaamjid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=c9d1d9" height="165"/>
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/maimoonaamjid/AI-Facial-Emotion-Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maimoonaamjid&repo=AI-Facial-Emotion-Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/maimoonaamjid/Hotel-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maimoonaamjid&repo=Hotel-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/maimoonaamjid/interactive-snake-game-ui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maimoonaamjid&repo=interactive-snake-game-ui&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/maimoonaamjid/Personal_Portfolio_Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maimoonaamjid&repo=Personal_Portfolio_Website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=c9d1d9" />
-</a>
+<img src="https://skillicons.dev/icons?i=java,py,cpp,c,mysql,git,github,html,css,js,figma,ps,ai,id,vscode,visualstudio,idea&perline=6" />
 
 </div>
 
