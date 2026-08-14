@@ -33,7 +33,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv68PC/giphy.gif" />
+<div align="center">
 
 ```yaml
 Name:        Maimoona Amjid
@@ -44,20 +44,19 @@ Passion:     Merging clean design with clean code
 Fun fact:    I design it first, then I build it 🎨➡️💻
 ```
 
-- 🎓 Software Engineering student
-- 🤖 Exploring **Artificial Intelligence** & intelligent agents
-- ☕ Building projects with **Java**
-- 🎨 Passionate about **UI/UX & Graphic Design**
-- 🌱 Always learning and experimenting with new tools
-- 💬 Ask me about design systems, Java OOP, or AI basics
+🎓 Software Engineering student &nbsp;|&nbsp; 🤖 Exploring **Artificial Intelligence** &nbsp;|&nbsp; ☕ Building projects with **Java**
+🎨 Passionate about **UI/UX & Graphic Design** &nbsp;|&nbsp; 🌱 Always learning and experimenting
+💬 Ask me about design systems, Java OOP, or AI basics
 
-<br clear="right"/>
+</div>
+
+<br/>
 
 ## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,py,cpp,c,mysql,git,github,html,css,js,figma,ps,ai,id,vscode,visualstudio,idea&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,py,cpp,c,mysql,git,github,html,css,js,figma,ps,ai,id,vscode,visualstudio&perline=8" />
 
 </div>
 
