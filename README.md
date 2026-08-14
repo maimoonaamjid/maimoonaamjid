@@ -1,137 +1,130 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Maimoona%20Amjid&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20AI%20%7C%20Java%20%7C%20UI%2FUX&descAlignY=60&descSize=18" width="100%"/>
+<!-- Animated wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B8CFF,50:302B63,100:24243e&height=220&section=header&text=Hi%20There,%20I'm%20Maimoona%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%E2%9C%A8%20AI%20%E2%9C%A8%20UI/UX%20Designer&descAlignY=58&descSize=18" width="100%"/>
 
-<br>
+<!-- Animated typing intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;Exploring+Artificial+Intelligence+%F0%9F%A4%96;UI%2FUX+%26+Graphic+Designer+%F0%9F%8E%A8;Merging+Design+%2B+Code+%2B+Creativity+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%92%BB;Building+Ideas+into+Software+%F0%9F%9A%80;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Designing+Beautiful+User+Experiences+%F0%9F%8E%A8" alt="Typing SVG" />
+<!-- Social badges -->
+<p>
+  <a href="https://www.linkedin.com/in/maimoonaamjid/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/digitalmaimoona">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/digitalmaimoona/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://linktr.ee/maimoonaamjid">
+    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+</p>
+
+<!-- Profile view counter -->
+<img src="https://komarev.com/ghpvc/?username=maimoonaamjid&style=for-the-badge&color=9B8CFF&label=PROFILE+VIEWS" />
 
 </div>
-<br>
 
-<div align="center">
+<br/>
 
 ## 🧠 About Me
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv68PC/giphy.gif" />
 
-### 👋 Hey there!
+```yaml
+Name:        Maimoona Amjid
+Role:        Software Engineering Student
+Focus:       Software Development • AI • UI/UX Design
+Currently:   Building projects in Java, exploring AI models
+Passion:     Merging clean design with clean code
+Fun fact:    I design it first, then I build it 🎨➡️💻
+```
 
-I'm **Maimoona**, a Software Engineering student passionate about building software, exploring AI, and creating beautiful user experiences.
-
-- 🎓 Software Engineering Student
-- 💻 Interested in **Software Development**
-- 🤖 Exploring **Artificial Intelligence**
+- 🎓 Software Engineering student
+- 🤖 Exploring **Artificial Intelligence** & intelligent agents
 - ☕ Building projects with **Java**
-- 🎨 Love **UI/UX & Graphic Design**
-- 🚀 Always learning and experimenting
+- 🎨 Passionate about **UI/UX & Graphic Design**
+- 🌱 Always learning and experimenting with new tools
+- 💬 Ask me about design systems, Java OOP, or AI basics
 
-</td>
-
-<td width="40%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
+<br clear="right"/>
 
 ## ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,git,github,html,css,js&perline=9" />
+<div align="center">
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=idea,vscode,figma,photoshop&perline=4" />
+<img src="https://skillicons.dev/icons?i=java,py,cpp,c,mysql,git,github,html,css,js,figma,vscode,idea&perline=7" />
 
 </div>
 
-<br>
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=maimoonaamjid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B8CFF&icon_color=9B8CFF&text_color=c9d1d9&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maimoonaamjid&theme=tokyonight&hide_border=true&background=0D1117&ring=9B8CFF&fire=9B8CFF&currStreakLabel=9B8CFF" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maimoonaamjid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=c9d1d9" height="165"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/maimoonaamjid/maimoonaamjid/output/github-contribution-grid-snake-dark.svg" />
+<!--END_SECTION:snake-->
+
+<sub>⚠️ This animated snake needs a one-time GitHub Action setup — see the "Snake Setup" section below.</sub>
+
+</div>
+
+<br/>
+
 ## 🚀 Featured Projects
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%" align="center">
-
-### 🏠 Emotion Detection System
-
-AI-Based facil emotion detection system.
-
-**AI • UI/UX • Software Engineering**
-
-<br>
-
-<a href="https://github.com/maimoonaamjid/AI-Facial-Emotion-Detection.git">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-9B8CFF?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/maimoonaamjid/AI-Facial-Emotion-Detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maimoonaamjid&repo=AI-Facial-Emotion-Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/maimoonaamjid/Hotel-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maimoonaamjid&repo=Hotel-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=c9d1d9" />
 </a>
 
-</td>
-
-<td width="50%" align="center">
-
-### 🏨 Hotel Management System
-
-Desktop application for managing hotel operations.
-
-**Java • MySQL • OOP**
-
-<br>
-
-<a href="https://github.com/maimoonaamjid/Hotel-Management-System.git">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-9B8CFF?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/maimoonaamjid/interactive-snake-game-ui">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maimoonaamjid&repo=interactive-snake-game-ui&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/maimoonaamjid/Personal_Portfolio_Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maimoonaamjid&repo=Personal_Portfolio_Website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=c9d1d9" />
 </a>
 
-</td>
+</div>
 
-</tr>
+<br/>
 
-<tr>
+## 📈 Activity Graph
 
-<td width="50%" align="center">
+<div align="center">
 
-### 🤖 AI Projects
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maimoonaamjid&theme=tokyo-night&bg_color=0D1117&color=9B8CFF&line=9B8CFF&point=ffffff&hide_border=true" width="100%"/>
 
-Artificial Intelligence projects including logical reasoning and intelligent agents.
+</div>
 
-**AI • Knowledge Representation • Logic**
+<br/>
 
-<br>
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:9B8CFF&height=150&section=footer" width="100%"/>
 
-<a href="https://github.com/maimoonaamjid/AI-Productivity-Dashboard-Design.git">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-9B8CFF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 📚 Calculator
-
-Algorithms and data structure implementations.
-
-**Java • Algorithms • Problem Solving**
-
-<br>
-
-<a href="https://github.com/maimoonaamjid/CalculatorPro.git">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-9B8CFF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
+<div align="center">
+  <i>Thanks for stopping by — let's connect and build something great! 🚀</i>
 </div>
